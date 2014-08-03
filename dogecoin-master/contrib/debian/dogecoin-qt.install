@@ -1,0 +1,6 @@
+jmagcoin-qt usr/bin
+share/pixmaps/jmagcoin32.xpm usr/share/pixmaps
+share/pixmaps/jmagcoin16.xpm usr/share/pixmaps
+share/pixmaps/jmagcoin128.png usr/share/pixmaps
+debian/jmagcoin-qt.desktop usr/share/applications
+debian/jmagcoin-qt.protocol usr/share/kde4/services/
